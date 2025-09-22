@@ -1,0 +1,5 @@
+INSERT INTO "SE".Mentor (Mentor_ID, Name, Expertise, Affiliation, LinkedIn_Profile) VALUES
+(500, 'Andrew', 'Product Development', 'Professional', 'https://linkedin.com/in/andrewmentor'),
+(501, 'Brittany', 'Finance', 'Academic', 'https://linkedin.com/in/brittanymentor'),
+(502, 'Colin', 'Operations', 'Organizational', 'https://linkedin.com/in/colinmentor'),
++
